@@ -1,0 +1,24 @@
+{
+  "name": "meghe-grp-assingment-api",
+  "version": "1.0.0",
+  "description": "APIs for Meghe Group Assingment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal:mustafa-taheri/meghe-assingment-api.git"
+  },
+  "author": "Mustafa Taheri",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.1.4",
+    "mongoose": "^6.0.12"
+  }
+}
